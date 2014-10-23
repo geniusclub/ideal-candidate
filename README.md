@@ -19,8 +19,6 @@ https://weworkremotely.com/jobs/1014
 - have the hardware and software to do his/her job
 
 
----
-
 
 #### Customer Support
 
@@ -39,8 +37,6 @@ https://weworkremotely.com/jobs/1011
 - ability to switch gears quickly
 - tackle the unknown
 
-
----
 
 
 #### Web Developer
@@ -64,8 +60,6 @@ https://weworkremotely.com/jobs/998
 - fix bugs
 - maintain our documentation
 
-
----
 
 
 #### Web Developer
@@ -91,7 +85,7 @@ https://weworkremotely.com/jobs/987
 - Command Line Interfaces
 - Having founded your own startup
 
----
+
 
 #### Python Developer
 
@@ -111,8 +105,6 @@ https://weworkremotely.com/jobs/983
 - TDD and continuous integration
 - GitHub (branching strategies, pull request code reviews)
 - freelancing or remote work experience
-
----
 
 
 ## Contributing
